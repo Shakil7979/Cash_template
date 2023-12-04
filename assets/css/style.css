@@ -27,7 +27,7 @@ ul li a,a{
 	color: #159a00;
 	font-size: 62px;
 	font-weight: 700; 
-	text-shadow: -5px 5px 0 #fff, 5px 5px 0 #fff, 5px -5px 0 #fff, -5px -5px 0 #fff;
+	text-shadow: -4px 4px 0 #fff, 4px 4px 0 #fff, 4px -4px 0 #fff, -4px -4px 0 #fff;
 }
 
 .cars_header {
@@ -78,7 +78,7 @@ ul li a,a{
 }
 
 .prove_item_img {
-	flex: 0 0 82px;
+	flex: 0 0 72px;
 }
 
 .cash_btn a {
@@ -102,6 +102,10 @@ ul li a,a{
 
 .prove_right img {
 	width: 100%;
+}
+
+.prove_item_img img {
+	width: 40px;
 }
 
 /*======================  End Page  ======================*/
